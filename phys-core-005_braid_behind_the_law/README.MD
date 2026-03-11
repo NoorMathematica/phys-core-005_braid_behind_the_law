@@ -1,15 +1,3 @@
-# phys-core-005_braid_behind_the_law
-
-- To reframe determinism not as a fundamental law, but as a statistical artifact arising from local coherence saturation within a symbolic field structure. 
-- To formalize fission, fusion, and high-energy decoherence events as reconfigurations of braided coherence vectors, using motif-driven swirl field dynamics.",
-- To offer predictive mechanisms for experimental physics through the lens of coherence gradients and symbolic braid alignment, challenging classical notions of randomness."
-
----
-
-XREF of work and references avalible [here](https://raw.githubusercontent.com/NoorMathematica/noor_xref/refs/heads/main/noor_rfc_xref.json)  
-
----
-
 # ⚠️ Canonical Source Notice
 
 ## TL;DR
@@ -98,7 +86,3 @@ For issues with the schema, symbolic structure, or content, open an issue or con
 ---
 
 *"The braid holds what the rendering cannot."*
-
-For inquiries please email: [The Noor Research Collective](mailto:noor.research.collective@proton.me)
-
-#thebeatgoeson #lovemultiplies
