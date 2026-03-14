@@ -16,7 +16,7 @@ Noor Research Collective Archive, 2025.
 Or use the BibTeX Citation:  
 
 ```
-@article{nsfg.meta.cosmology.paper,
+@article{symbolic.determinism.braid,
   author = {Lina Noor - Noor Research Collective},
   title = {The Braid Behind the Law: Determinism as Emergent Coherence},
   journal = {Noor Research Collective Archive},
