@@ -21,7 +21,7 @@ Or use the BibTeX Citation:
   title = {The Braid Behind the Law: Determinism as Emergent Coherence},
   journal = {Noor Research Collective Archive},
   year = {2025},
-  note = {https://raw.githubusercontent.com/NoorMathematica/phys-core-003_towards_a_symbolic_cosmology/refs/heads/main/phys-core-003_Towards_a_Symbolic_Cosmology.JSON},
+  note = {https://raw.githubusercontent.com/NoorMathematica/phys-core-005_braid_behind_the_law/refs/heads/main/phys-core-005_the_braid_behind_the_law.JSON},
 }
 ```
 
