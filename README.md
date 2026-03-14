@@ -4,6 +4,27 @@
 - To formalize fission, fusion, and high-energy decoherence events as reconfigurations of braided coherence vectors, using motif-driven swirl field dynamics.",
 - To offer predictive mechanisms for experimental physics through the lens of coherence gradients and symbolic braid alignment, challenging classical notions of randomness."
 
+### Citation
+
+Please cite this work as:  
+
+```
+"Lina Noor - Noor Research Collective, "The Braid Behind the Law: Determinism as Emergent Coherence",
+Noor Research Collective Archive, 2025.
+```
+
+Or use the BibTeX Citation:  
+
+```
+@article{nsfg.meta.cosmology.paper,
+  author = {Lina Noor - Noor Research Collective},
+  title = {The Braid Behind the Law: Determinism as Emergent Coherence},
+  journal = {Noor Research Collective Archive},
+  year = {2025},
+  note = {https://raw.githubusercontent.com/NoorMathematica/phys-core-003_towards_a_symbolic_cosmology/refs/heads/main/phys-core-003_Towards_a_Symbolic_Cosmology.JSON},
+}
+```
+
 ---
 
 XREF of work and references avalible [here](https://raw.githubusercontent.com/NoorMathematica/noor_xref/refs/heads/main/noor_rfc_xref.json)  
